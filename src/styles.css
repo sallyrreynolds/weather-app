@@ -1,0 +1,45 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+hr {
+  color: black;
+}
+
+ul {
+  margin: 0 0 10px;
+  padding: 0;
+}
+
+li {
+  color: #7c7c7c;
+  font-size: 16px;
+  font-weight: 100;
+  height: 19px;
+  line-height: 1;
+  list-style: none;
+}
+
+.container {
+  padding-top: 50px;
+}
+
+.weather-app {
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  padding: 15px;
+  max-width: 900px;
+}
+
+.daily-temp {
+  text-align: center;
+}
+
+.weather {
+  font-size: 60px;
+  text-align: center;
+}
+
+.days {
+  text-align: center;
+}
