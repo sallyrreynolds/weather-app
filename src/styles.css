@@ -11,6 +11,14 @@ ul {
   padding: 0;
 }
 
+h5 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
 li {
   color: #7c7c7c;
   font-size: 16px;
