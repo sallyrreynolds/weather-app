@@ -32,6 +32,9 @@ li:first-letter {
   text-transform: capitalize;
 }
 
+.forecast-icon {
+  text-align: center;
+}
 .container {
   padding-top: 50px;
 }
